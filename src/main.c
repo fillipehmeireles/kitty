@@ -6,7 +6,7 @@
 #define BUFF_SIZE 1024
 
 void usage(){
-    printf("kitty <filename> -c x:y");
+    printf("usage: kitty <filename> -c x:y \n");
 }
 
 int main(int argc, char**argv){
